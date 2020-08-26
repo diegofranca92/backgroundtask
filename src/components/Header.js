@@ -31,6 +31,7 @@ function Header({navigation, statusBO, tpStatus, switchVisible, onValueChange}) 
   //Ao abrir a tela
   useEffect(() => {
     loadUser();
+    
   },[active, tpStatus, statusBO]);
 
   //Ao abrir a tela

@@ -38,6 +38,23 @@ function DeliveryInfo({navigation, bo_online, onTpStatusChange, onFinilizeDelive
 
   // Executa assim q a página é aberta;
   useEffect(() => {
+
+    //Teste Guilherme
+    /* var arrDelivery =[{
+      cd_entrega: 1,
+      empresa: "FlashEntregas",
+      bairro_destino: "Cidade nova 1",
+      sn_retorno: "N",
+      valor_entregador: "20,00",
+
+    }]
+    setNewDelivery(arrDelivery);
+    if(newDelivery) console.log(newDelivery, statusCadastro)
+    setLoading(true)  */
+    //FIM Teste Guilherme
+
+
+
     initilizeSoundNotification();
     loadUser();
     //var interval;
@@ -49,6 +66,8 @@ function DeliveryInfo({navigation, bo_online, onTpStatusChange, onFinilizeDelive
       }, 3000); //3000
     //}
     return () => clearInterval(interval);
+      //Teste - Guilherme
+   
   }, []);
 
   async function loadUser() {
@@ -357,6 +376,10 @@ function DeliveryInfo({navigation, bo_online, onTpStatusChange, onFinilizeDelive
     } else {
       pauseSoundNotification();
     }
+  
+  
+
+    //FIM Teste - Guilherme 
     return (
       <>
         <Header navigation={navigation} statusBO={active} tpStatus={statusCadastro} switchVisible={true} onValueChange={(val) => {setActive(val)}} />
@@ -460,11 +483,11 @@ function DeliveryInfo({navigation, bo_online, onTpStatusChange, onFinilizeDelive
                   <View key={item.cd_entrega} style={[styles.listItemMiniCard, styles.rowMiniCard]}>
                     <Text style={styles.titleItemMiniCard}>Nova Entrega: {item.empresa}</Text>
                     <View style={styles.rowMiniCard}>
-                      <Ionicons name="ios-pin" size={18} style={styles.iconDesc}/>
+                      <Ionicons name="map-marker" size={18} style={styles.iconDesc}/>
                       <Text style={styles.desc}> Bairro: {item.bairro_destino}</Text>
-                      <Ionicons name="md-git-compare" size={18} style={styles.iconDesc}/>
+                      <Ionicons name="exchange" size={18} style={styles.iconDesc}/>
                       <Text style={styles.desc}>{item.sn_retorno === "N" ? 'Não volta' : 'Com volta'}</Text>
-                      <Ionicons name="ios-cash" size={18} style={styles.iconDesc}/>
+                      <Ionicons name="money" size={18} style={styles.iconDesc}/>
                       <Text style={styles.desc}> R$ {item.valor_entregador < 10 ? "0" + item.valor_entregador.substr(0,4).replace(".", ",") : item.valor_entregador.substr(0,5).replace(".", ",")}</Text>
                     </View>
                     <View style={styles.rowMiniCard}>
