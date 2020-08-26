@@ -87,7 +87,7 @@ export default function AppNavigator(){
     <NavigationContainer>
       <Stack.Navigator 
        screenOptions={{
-        header: () => null
+        headerShown: false
       }}
       >
         <Stack.Screen name ="Login" component={Login}/>
@@ -97,9 +97,9 @@ export default function AppNavigator(){
         <Stack.Screen 
                     name ="PageUserDetail" 
                     component={PageUserDetail}
-                    options={({ route }) => ({
-                      headerTitle: getFocusedRouteNameFromRoute(route)
-                    })}/>
+                    options={{
+                      headerShown: true,
+                      title: "Perfil"}} />
       </Stack.Navigator>
     </NavigationContainer>
   )
