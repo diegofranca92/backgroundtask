@@ -4,6 +4,18 @@ import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
+import com.oblador.vectoricons.VectorIconsPackage;
+import com.learnium.RNDeviceInfo.RNDeviceInfo;
+import com.learnium.RNDeviceInfo.RNDeviceInfo;
+import com.rctbattery.BatteryManagerPackage;
+import com.BV.LinearGradient.LinearGradientPackage;
+import com.zmxv.RNSound.RNSoundPackage;
+import org.reactnative.maskedview.RNCMaskedViewPackage;
+import com.imagepicker.ImagePickerPackage;
+import com.jamesisaac.rnbackgroundtask.BackgroundTaskPackage;
+/* import com.gcrabtree.rctsocketio.SocketIoPackage; */
+import com.github.reactnativecommunity.location.RNLocationPackage;
+import com.transistorsoft.rnbackgroundgeolocation.RNBackgroundGeolocation;
 import com.ocetnik.timer.BackgroundTimerPackage;
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactNativeHost;
@@ -11,6 +23,9 @@ import com.facebook.react.ReactPackage;
 import com.facebook.soloader.SoLoader;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
+import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;  // <--- Import Package
+
+/* import com.reactlibrary.SocketioPackage; */
 
 public class MainApplication extends Application implements ReactApplication {
 
@@ -25,6 +40,8 @@ public class MainApplication extends Application implements ReactApplication {
         protected List<ReactPackage> getPackages() {
           @SuppressWarnings("UnnecessaryLocalVariable")
           List<ReactPackage> packages = new PackageList(this).getPackages();
+  /*         packages.add(
+            new SocketioPackage()); */
           // Packages that cannot be autolinked yet can be added manually here, for example:
           // packages.add(new MyReactNativePackage());
           return packages;
@@ -45,6 +62,7 @@ public class MainApplication extends Application implements ReactApplication {
   public void onCreate() {
     super.onCreate();
     SoLoader.init(this, /* native exopackage */ false);
+    BackgroundTaskPackage.useContext(this);
     initializeFlipper(this, getReactNativeHost().getReactInstanceManager());
   }
 

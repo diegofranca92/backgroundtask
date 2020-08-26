@@ -12,78 +12,689 @@
 11-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/debug/AndroidManifest.xml:5:5-77
 11-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:4:7-69
+12-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:4:24-66
 13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-13-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:5:3-77
-13-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:5:20-74
-14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-14-->[com.facebook.flipper:flipper:0.37.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/623174cd4892d9fb924ac44b102b25c0/flipper-0.37.0/AndroidManifest.xml:16:5-76
-14-->[com.facebook.flipper:flipper:0.37.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/623174cd4892d9fb924ac44b102b25c0/flipper-0.37.0/AndroidManifest.xml:16:22-73
-15    <uses-permission android:name="android.permission.WAKE_LOCK" />
-15-->[:react-native-background-timer] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
-15-->[:react-native-background-timer] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-65
-16
-17    <application
-17-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:6:5-25:19
-18        android:name="com.mobilereactnative.MainApplication"
-18-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:7:7-38
-19        android:allowBackup="false"
-19-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:11:7-34
-20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-20-->[androidx.core:core:1.1.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:18-86
-21        android:debuggable="true"
-22        android:icon="@mipmap/ic_launcher"
-22-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:9:7-41
-23        android:label="@string/app_name"
-23-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:8:7-39
-24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:10:7-52
-25        android:theme="@style/AppTheme"
-25-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:12:7-38
-26        android:usesCleartextTraffic="true" >
-26-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/debug/AndroidManifest.xml:7:18-53
-27        <activity
-27-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:13:7-23:18
-28            android:name="com.mobilereactnative.MainActivity"
-28-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:14:9-37
-29            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-29-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:16:9-86
-30            android:label="@string/app_name"
-30-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:15:9-41
-31            android:launchMode="singleTask"
-31-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:17:9-40
-32            android:windowSoftInputMode="adjustResize" >
-32-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:18:9-51
-33            <intent-filter>
-33-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:19:9-22:25
-34                <action android:name="android.intent.action.MAIN" />
-34-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:20:13-65
-34-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:20:21-62
-35
-36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:21:13-73
-36-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:21:23-70
-37            </intent-filter>
-38        </activity>
-39        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-39-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:24:7-84
-39-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:24:17-81
-40        <activity
-40-->[com.google.android.gms:play-services-base:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/fc8046cb9a5df9499609a5f7f8270b1b/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
-41            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-41-->[com.google.android.gms:play-services-base:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/fc8046cb9a5df9499609a5f7f8270b1b/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
-42            android:exported="false"
-42-->[com.google.android.gms:play-services-base:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/fc8046cb9a5df9499609a5f7f8270b1b/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
-43            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-43-->[com.google.android.gms:play-services-base:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/fc8046cb9a5df9499609a5f7f8270b1b/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
-44
-45        <meta-data
-45-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/23f835d27977684d3966f2e39b91e55c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
-46            android:name="com.google.android.gms.version"
-46-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/23f835d27977684d3966f2e39b91e55c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
-47            android:value="@integer/google_play_services_version" />
-47-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/23f835d27977684d3966f2e39b91e55c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
-48    </application>
-49
-50</manifest>
+13-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:5:7-81
+13-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:5:24-78
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:6:7-82
+14-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:6:24-80
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:7:7-68
+15-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:7:24-65
+16    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+16-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:8:7-82
+16-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:8:24-80
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->[com.facebook.flipper:flipper:0.37.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/5a3f6031a326963d66abb785e4933340/flipper-0.37.0/AndroidManifest.xml:16:5-76
+17-->[com.facebook.flipper:flipper:0.37.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/5a3f6031a326963d66abb785e4933340/flipper-0.37.0/AndroidManifest.xml:16:22-73
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+18-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+19-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+19-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+20    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+20-->[com.google.android.gms:play-services-iid:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/736ed32a452450e01d8576476191d02d/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+20-->[com.google.android.gms:play-services-iid:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/736ed32a452450e01d8576476191d02d/play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+21    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- for android -->
+21-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:26:5-110
+21-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:26:22-107
+22    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+23    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+24    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+25    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+26    <!-- for Samsung -->
+27    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+27-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+27-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+28    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+28-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+28-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+29    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+29-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+29-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+30    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+30-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+30-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+31    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+31-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+31-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+32    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+32-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+32-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+33    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+33-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+33-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+34    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+34-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+34-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+35    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+35-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+35-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+36    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+36-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+36-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+37    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+37-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+37-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+38    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+38-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+38-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+39    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+39-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+39-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+40    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+40-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+40-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+41    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+41-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+41-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+42    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+42-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+42-->[me.leolin:ShortcutBadger:1.1.22] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/b7cd27410d3ac709f38b7b5effa49e97/ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+43    <uses-permission android:name="android.permission.GET_TASKS" />
+43-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:13:5-68
+43-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:13:22-65
+44    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+44-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:5:5-84
+44-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:5:22-82
+45    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+45-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:7:5-78
+45-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:7:22-76
+46    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+46-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:9:5-88
+46-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:9:22-86
+47    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+47-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:11:5-76
+47-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:11:22-74
+48    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" /> <!-- device-specific permissions for DeviceSettings methods -->
+48-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:12:5-93
+48-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:12:22-91
+49    <uses-permission android:name="oppo.permission.OPPO_COMPONENT_SAFE" />
+49-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:16:5-74
+49-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:16:22-72
+50    <uses-permission android:name="com.huawei.permission.external_app_settings.USE_COMPONENT" />
+50-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:17:5-96
+50-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:17:22-94
+51
+52    <uses-feature
+52-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:18:5-90
+53        android:name="android.hardware.location.gps"
+53-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:18:19-63
+54        android:required="false" />
+54-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:18:64-88
+55
+56    <application
+56-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:9:5-63:19
+57        android:name="com.mobilereactnative.MainApplication"
+57-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:10:7-38
+58        android:allowBackup="false"
+58-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:14:7-34
+59        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+59-->[androidx.core:core:1.5.0-alpha02] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/cd9b5bb1aaf625739df118a4b31eeb1d/core-1.5.0-alpha02/AndroidManifest.xml:24:18-86
+60        android:debuggable="true"
+61        android:icon="@mipmap/ic_launcher"
+61-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:12:7-41
+62        android:label="@string/app_name"
+62-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:11:7-39
+63        android:roundIcon="@mipmap/ic_launcher_round"
+63-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:13:7-52
+64        android:theme="@style/AppTheme"
+64-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:15:7-38
+65        android:usesCleartextTraffic="true" >
+65-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/debug/AndroidManifest.xml:7:18-53
+66        <meta-data
+66-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:16:7-17:65
+67            android:name="com.dieam.reactnativepushnotification.notification_channel_name"
+67-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:16:19-97
+68            android:value="YOUR NOTIFICATION CHANNEL NAME" />
+68-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:17:17-63
+69        <meta-data
+69-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:18:9-19:76
+70            android:name="com.dieam.reactnativepushnotification.notification_channel_description"
+70-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:18:21-106
+71            android:value="YOUR NOTIFICATION CHANNEL DESCRIPTION" /> <!-- Change the value to true to enable pop-up for in foreground (remote-only, for local use ignoreInForeground) -->
+71-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:19:21-74
+72        <meta-data
+72-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:22:9-23:43
+73            android:name="com.dieam.reactnativepushnotification.notification_foreground"
+73-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:22:21-97
+74            android:value="true" /> <!-- Change the value to false if you don't want the creation of the default channel -->
+74-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:23:21-41
+75        <meta-data
+75-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:25:9-26:43
+76            android:name="com.dieam.reactnativepushnotification.channel_create_default"
+76-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:25:21-96
+77            android:value="true" /> <!-- Change the resource name to your App's accent color - or any other color you want -->
+77-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:26:21-41
+78        <meta-data
+78-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:28:9-29:54
+79            android:name="com.dieam.reactnativepushnotification.notification_color"
+79-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:28:21-92
+80            android:resource="@color/white" /> <!-- or @android:color/{name} to use a standard color -->
+80-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:29:21-52
+81        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationActions" />
+81-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:31:9-108
+81-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:31:19-105
+82        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher" />
+82-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:32:9-110
+82-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:32:19-107
+83        <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver" >
+83-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:33:9-37:20
+83-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:33:19-115
+84            <intent-filter>
+84-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:34:13-36:29
+85                <action android:name="android.intent.action.BOOT_COMPLETED" />
+85-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:35:17-79
+85-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:35:25-76
+86            </intent-filter>
+87        </receiver>
+88
+89        <service
+89-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:39:9-45:19
+90            android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService"
+90-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:40:13-107
+91            android:exported="false" >
+91-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:41:13-37
+92            <intent-filter>
+92-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:42:13-44:29
+93                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+93-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:43:17-78
+93-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:43:25-75
+94            </intent-filter>
+95        </service>
+96
+97        <activity
+97-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:51:7-61:18
+98            android:name="com.mobilereactnative.MainActivity"
+98-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:52:9-37
+99            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+99-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:54:9-86
+100            android:label="@string/app_name"
+100-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:53:9-41
+101            android:launchMode="singleTask"
+101-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:55:9-40
+102            android:windowSoftInputMode="adjustResize" >
+102-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:56:9-51
+103            <intent-filter>
+103-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:57:9-60:25
+104                <action android:name="android.intent.action.MAIN" />
+104-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:58:13-65
+104-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:58:21-62
+105
+106                <category android:name="android.intent.category.LAUNCHER" />
+106-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:59:13-73
+106-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:59:23-70
+107            </intent-filter>
+108        </activity>
+109        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+109-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:62:7-84
+109-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:62:17-81
+110
+111        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+111-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-111
+111-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-108
+112        <service
+112-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-23:19
+113            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+113-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-95
+114            android:exported="false" >
+114-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
+115            <intent-filter>
+115-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:42:13-44:29
+116                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+116-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:43:17-78
+116-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:43:25-75
+117            </intent-filter>
+118        </service>
+119
+120        <receiver
+120-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-32:20
+121            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+121-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-96
+122            android:exported="true"
+122-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-36
+123            android:permission="com.google.android.c2dm.permission.SEND" >
+123-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-73
+124            <intent-filter>
+124-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+125                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+125-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+125-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+126            </intent-filter>
+127        </receiver>
+128
+129        <meta-data
+129-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:36
+130            android:name="firebase_messaging_auto_init_enabled"
+130-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-64
+131            android:value="true" />
+131-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-33
+132        <meta-data
+132-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:32
+133            android:name="com.google.firebase.messaging.default_notification_channel_id"
+133-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-89
+134            android:value="" />
+134-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-29
+135        <meta-data
+135-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-42:47
+136            android:name="com.google.firebase.messaging.default_notification_color"
+136-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-84
+137            android:resource="@color/white" />
+137-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-44
+138
+139        <service
+139-->[:react-native-background-task] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-background-task/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:38
+140            android:name="com.jamesisaac.rnbackgroundtask.HeadlessTaskService"
+140-->[:react-native-background-task] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-background-task/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-79
+141            android:enabled="true" />
+141-->[:react-native-background-task] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-background-task/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+142
+143        <receiver
+143-->[:react-native-device-info] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+144            android:name="com.learnium.RNDeviceInfo.RNDeviceReceiver"
+144-->[:react-native-device-info] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-70
+145            android:enabled="true"
+145-->[:react-native-device-info] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-35
+146            android:exported="true" >
+146-->[:react-native-device-info] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-36
+147            <intent-filter>
+147-->[:react-native-device-info] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:29
+148                <action android:name="com.android.vending.INSTALL_REFERRER" />
+148-->[:react-native-device-info] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-79
+148-->[:react-native-device-info] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:25-76
+149            </intent-filter>
+150        </receiver>
+151
+152        <provider
+152-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+153            android:name="com.imagepicker.FileProvider"
+153-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+154            android:authorities="com.mobilereactnative.provider"
+154-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+155            android:exported="false"
+155-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+156            android:grantUriPermissions="true" >
+156-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+157            <meta-data
+157-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+158                android:name="android.support.FILE_PROVIDER_PATHS"
+158-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+159                android:resource="@xml/provider_paths" />
+159-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+160        </provider>
+161        <provider
+161-->[:react-native-webview] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+162            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+162-->[:react-native-webview] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+163            android:authorities="com.mobilereactnative.fileprovider"
+163-->[:react-native-webview] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+164            android:exported="false"
+164-->[:react-native-webview] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+165            android:grantUriPermissions="true" >
+165-->[:react-native-webview] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+166            <meta-data
+166-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+167                android:name="android.support.FILE_PROVIDER_PATHS"
+167-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+168                android:resource="@xml/file_provider_paths" />
+168-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+169        </provider>
+170
+171        <service
+171-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:17:9-20:72
+172            android:name="com.evernote.android.job.v21.PlatformJobService"
+172-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:18:13-75
+173            android:exported="false"
+173-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:19:13-37
+174            android:permission="android.permission.BIND_JOB_SERVICE" />
+174-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:20:13-69
+175        <service
+175-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:21:9-23:40
+176            android:name="com.evernote.android.job.v14.PlatformAlarmService"
+176-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:22:13-77
+177            android:exported="false" />
+177-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:23:13-37
+178
+179        <receiver
+179-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:25:9-34:20
+180            android:name="com.evernote.android.job.v14.PlatformAlarmReceiver"
+180-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:26:13-78
+181            android:exported="false" >
+181-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:27:13-37
+182            <intent-filter>
+182-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:28:13-33:29
+183
+184                <!-- Keep the filter for legacy intents -->
+185                <action android:name="com.evernote.android.job.v14.RUN_JOB" />
+185-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:31:17-79
+185-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:31:25-76
+186                <action android:name="net.vrallev.android.job.v14.RUN_JOB" />
+186-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:32:17-78
+186-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:32:25-75
+187            </intent-filter>
+188        </receiver>
+189        <receiver
+189-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:35:9-44:20
+190            android:name="com.evernote.android.job.JobBootReceiver"
+190-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:36:13-68
+191            android:exported="false" >
+191-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:37:13-37
+192            <intent-filter>
+192-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:38:13-43:29
+193                <action android:name="android.intent.action.BOOT_COMPLETED" />
+193-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:35:17-79
+193-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:35:25-76
+194                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+194-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:40:17-82
+194-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:40:25-79
+195                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+195-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:41:17-82
+195-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:41:25-79
+196                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+196-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:42:17-84
+196-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:42:25-81
+197            </intent-filter>
+198        </receiver>
+199
+200        <service
+200-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:46:9-54:19
+201            android:name="com.evernote.android.job.gcm.PlatformGcmService"
+201-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:47:13-75
+202            android:enabled="false"
+202-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:48:13-36
+203            android:exported="true"
+203-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:49:13-36
+204            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE" >
+204-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:50:13-93
+205            <intent-filter>
+205-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:51:13-53:29
+206                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY" />
+206-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:52:17-87
+206-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:52:25-84
+207            </intent-filter>
+208        </service>
+209        <service
+209-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:55:9-57:40
+210            android:name="com.evernote.android.job.JobRescheduleService"
+210-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:56:13-73
+211            android:exported="false" />
+211-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:57:13-37
+212        <!--
+213             FirebaseMessagingService performs security checks at runtime,
+214             but set to not exported to explicitly avoid allowing another app to call it.
+215        -->
+216        <service
+216-->[com.google.firebase:firebase-messaging:20.2.4] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ee2cf59338dfaf2db59b0758d876358b/jetified-firebase-messaging-20.2.4/AndroidManifest.xml:28:9-35:19
+217            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+217-->[com.google.firebase:firebase-messaging:20.2.4] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ee2cf59338dfaf2db59b0758d876358b/jetified-firebase-messaging-20.2.4/AndroidManifest.xml:29:13-82
+218            android:directBootAware="true"
+218-->[com.google.firebase:firebase-messaging:20.2.4] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ee2cf59338dfaf2db59b0758d876358b/jetified-firebase-messaging-20.2.4/AndroidManifest.xml:30:13-43
+219            android:exported="false" >
+219-->[com.google.firebase:firebase-messaging:20.2.4] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ee2cf59338dfaf2db59b0758d876358b/jetified-firebase-messaging-20.2.4/AndroidManifest.xml:31:13-37
+220            <intent-filter android:priority="-500" >
+220-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:42:13-44:29
+221                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+221-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:43:17-78
+221-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:43:25-75
+222            </intent-filter>
+223        </service>
+224        <service
+224-->[com.google.firebase:firebase-messaging:20.2.4] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ee2cf59338dfaf2db59b0758d876358b/jetified-firebase-messaging-20.2.4/AndroidManifest.xml:36:9-42:19
+225            android:name="com.google.firebase.components.ComponentDiscoveryService"
+225-->[com.google.firebase:firebase-messaging:20.2.4] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ee2cf59338dfaf2db59b0758d876358b/jetified-firebase-messaging-20.2.4/AndroidManifest.xml:37:13-84
+226            android:directBootAware="true"
+226-->[com.google.firebase:firebase-common:19.3.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/799ef1bf4fbcfd6a092574997b88a844/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+227            android:exported="false" >
+227-->[com.google.firebase:firebase-messaging:20.2.4] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ee2cf59338dfaf2db59b0758d876358b/jetified-firebase-messaging-20.2.4/AndroidManifest.xml:38:13-37
+228            <meta-data
+228-->[com.google.firebase:firebase-messaging:20.2.4] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ee2cf59338dfaf2db59b0758d876358b/jetified-firebase-messaging-20.2.4/AndroidManifest.xml:39:13-41:85
+229                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+229-->[com.google.firebase:firebase-messaging:20.2.4] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ee2cf59338dfaf2db59b0758d876358b/jetified-firebase-messaging-20.2.4/AndroidManifest.xml:40:17-119
+230                android:value="com.google.firebase.components.ComponentRegistrar" />
+230-->[com.google.firebase:firebase-messaging:20.2.4] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ee2cf59338dfaf2db59b0758d876358b/jetified-firebase-messaging-20.2.4/AndroidManifest.xml:41:17-82
+231            <meta-data
+231-->[com.google.android.gms:play-services-measurement-api:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/2c19a7ca406150597617e8544ef312fc/play-services-measurement-api-17.4.3/AndroidManifest.xml:30:13-32:85
+232                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+232-->[com.google.android.gms:play-services-measurement-api:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/2c19a7ca406150597617e8544ef312fc/play-services-measurement-api-17.4.3/AndroidManifest.xml:31:17-139
+233                android:value="com.google.firebase.components.ComponentRegistrar" />
+233-->[com.google.android.gms:play-services-measurement-api:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/2c19a7ca406150597617e8544ef312fc/play-services-measurement-api-17.4.3/AndroidManifest.xml:32:17-82
+234            <meta-data
+234-->[com.google.firebase:firebase-iid:20.2.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a1b056bf990ed3316c04d7bac254224d/firebase-iid-20.2.3/AndroidManifest.xml:32:13-34:85
+235                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+235-->[com.google.firebase:firebase-iid:20.2.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a1b056bf990ed3316c04d7bac254224d/firebase-iid-20.2.3/AndroidManifest.xml:33:17-96
+236                android:value="com.google.firebase.components.ComponentRegistrar" />
+236-->[com.google.firebase:firebase-iid:20.2.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a1b056bf990ed3316c04d7bac254224d/firebase-iid-20.2.3/AndroidManifest.xml:34:17-82
+237            <meta-data
+237-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/340c036630a2895932362cf89284bded/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+238                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+238-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/340c036630a2895932362cf89284bded/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+239                android:value="com.google.firebase.components.ComponentRegistrar" />
+239-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/340c036630a2895932362cf89284bded/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+240            <meta-data
+240-->[com.google.firebase:firebase-installations:16.3.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/cecf8c108db86954d4b59c86349d15b1/firebase-installations-16.3.3/AndroidManifest.xml:17:13-19:85
+241                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+241-->[com.google.firebase:firebase-installations:16.3.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/cecf8c108db86954d4b59c86349d15b1/firebase-installations-16.3.3/AndroidManifest.xml:18:17-127
+242                android:value="com.google.firebase.components.ComponentRegistrar" />
+242-->[com.google.firebase:firebase-installations:16.3.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/cecf8c108db86954d4b59c86349d15b1/firebase-installations-16.3.3/AndroidManifest.xml:19:17-82
+243        </service>
+244
+245        <receiver
+245-->[com.google.firebase:firebase-iid:20.2.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a1b056bf990ed3316c04d7bac254224d/firebase-iid-20.2.3/AndroidManifest.xml:37:9-44:20
+246            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+246-->[com.google.firebase:firebase-iid:20.2.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a1b056bf990ed3316c04d7bac254224d/firebase-iid-20.2.3/AndroidManifest.xml:38:13-78
+247            android:exported="true"
+247-->[com.google.firebase:firebase-iid:20.2.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a1b056bf990ed3316c04d7bac254224d/firebase-iid-20.2.3/AndroidManifest.xml:39:13-36
+248            android:permission="com.google.android.c2dm.permission.SEND" >
+248-->[com.google.firebase:firebase-iid:20.2.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a1b056bf990ed3316c04d7bac254224d/firebase-iid-20.2.3/AndroidManifest.xml:40:13-73
+249            <intent-filter>
+249-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+250                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+250-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+250-->[:react-native-firebase_messaging] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+251            </intent-filter>
+252        </receiver>
+253
+254        <activity
+254-->[com.google.android.gms:play-services-base:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a11c3aedc407cce5e4340efdd0583456/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+255            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+255-->[com.google.android.gms:play-services-base:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a11c3aedc407cce5e4340efdd0583456/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+256            android:exported="false"
+256-->[com.google.android.gms:play-services-base:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a11c3aedc407cce5e4340efdd0583456/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+257            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+257-->[com.google.android.gms:play-services-base:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/a11c3aedc407cce5e4340efdd0583456/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+258
+259        <service
+259-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/9b8e790869747a5dc69620561641f07d/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+260            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+260-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/9b8e790869747a5dc69620561641f07d/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+261            android:exported="false" >
+261-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/9b8e790869747a5dc69620561641f07d/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+262            <meta-data
+262-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/9b8e790869747a5dc69620561641f07d/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+263                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+263-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/9b8e790869747a5dc69620561641f07d/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+264                android:value="cct" />
+264-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/9b8e790869747a5dc69620561641f07d/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+265        </service>
+266        <service
+266-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/01ae294ad4d744ba24bd055dc995b8e6/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+267            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+267-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/01ae294ad4d744ba24bd055dc995b8e6/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+268            android:exported="false"
+268-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/01ae294ad4d744ba24bd055dc995b8e6/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+269            android:permission="android.permission.BIND_JOB_SERVICE" >
+269-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/01ae294ad4d744ba24bd055dc995b8e6/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+270        </service>
+271
+272        <receiver
+272-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/01ae294ad4d744ba24bd055dc995b8e6/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+273            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+273-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/01ae294ad4d744ba24bd055dc995b8e6/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+274            android:exported="false" />
+274-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/01ae294ad4d744ba24bd055dc995b8e6/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+275        <receiver
+275-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:29:9-33:20
+276            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+276-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:30:13-85
+277            android:enabled="true"
+277-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:31:13-35
+278            android:exported="false" >
+278-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:32:13-37
+279        </receiver>
+280
+281        <service
+281-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:35:9-38:40
+282            android:name="com.google.android.gms.measurement.AppMeasurementService"
+282-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:36:13-84
+283            android:enabled="true"
+283-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:37:13-35
+284            android:exported="false" />
+284-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:38:13-37
+285        <service
+285-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:39:9-43:72
+286            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+286-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:40:13-87
+287            android:enabled="true"
+287-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:41:13-35
+288            android:exported="false"
+288-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:42:13-37
+289            android:permission="android.permission.BIND_JOB_SERVICE" />
+289-->[com.google.android.gms:play-services-measurement:17.4.3] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/650bafb15084bd610ee326189c8d7d03/play-services-measurement-17.4.3/AndroidManifest.xml:43:13-69
+290
+291        <provider
+291-->[com.google.firebase:firebase-common:19.3.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/799ef1bf4fbcfd6a092574997b88a844/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+292            android:name="com.google.firebase.provider.FirebaseInitProvider"
+292-->[com.google.firebase:firebase-common:19.3.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/799ef1bf4fbcfd6a092574997b88a844/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+293            android:authorities="com.mobilereactnative.firebaseinitprovider"
+293-->[com.google.firebase:firebase-common:19.3.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/799ef1bf4fbcfd6a092574997b88a844/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+294            android:exported="false"
+294-->[com.google.firebase:firebase-common:19.3.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/799ef1bf4fbcfd6a092574997b88a844/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+295            android:initOrder="100" />
+295-->[com.google.firebase:firebase-common:19.3.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/799ef1bf4fbcfd6a092574997b88a844/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+296
+297        <meta-data
+297-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/c66419962089cb12ca5f388951e96b72/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+298            android:name="com.google.android.gms.version"
+298-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/c66419962089cb12ca5f388951e96b72/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+299            android:value="@integer/google_play_services_version" />
+299-->[com.google.android.gms:play-services-basement:17.0.0] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/c66419962089cb12ca5f388951e96b72/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+300
+301        <receiver android:name="com.transistorsoft.tsbackgroundfetch.FetchAlarmReceiver" />
+301-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:16:9-92
+301-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:16:19-89
+302
+303        <service
+303-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:18:9-21:72
+304            android:name="com.transistorsoft.tsbackgroundfetch.FetchJobService"
+304-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:19:13-80
+305            android:exported="true"
+305-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:20:13-36
+306            android:permission="android.permission.BIND_JOB_SERVICE" />
+306-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:21:13-69
+307
+308        <receiver android:name="com.transistorsoft.tsbackgroundfetch.BootReceiver" >
+308-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:23:9-28:20
+308-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:23:19-83
+309            <intent-filter>
+309-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:24:13-27:29
+310                <action android:name="android.intent.action.BOOT_COMPLETED" />
+310-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:35:17-79
+310-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:35:25-76
+311                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+311-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:42:17-84
+311-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:42:25-81
+312            </intent-filter>
+313        </receiver>
+314
+315        <activity
+315-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:20:9-219
+316            android:name="com.transistorsoft.locationmanager.activity.TSLocationManagerActivity"
+316-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:20:19-103
+317            android:excludeFromRecents="true"
+317-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:20:104-137
+318            android:launchMode="singleInstance"
+318-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:20:138-173
+319            android:theme="@style/AppTheme.Transparent" />
+319-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:20:174-217
+320
+321        <service android:name="com.transistorsoft.locationmanager.service.TrackingService" />
+321-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:21:9-93
+321-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:21:18-91
+322        <service android:name="com.transistorsoft.locationmanager.service.LocationRequestService" />
+322-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:22:9-100
+322-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:22:18-98
+323        <service android:name="com.transistorsoft.locationmanager.service.HeartbeatService" />
+323-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:23:9-94
+323-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:23:18-92
+324        <service android:name="com.transistorsoft.locationmanager.service.ActivityRecognitionService" />
+324-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:24:9-104
+324-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:24:18-102
+325        <service android:name="com.transistorsoft.locationmanager.service.GeofencingService" />
+325-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:25:9-95
+325-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:25:18-93
+326        <service android:name="com.transistorsoft.locationmanager.service.BackgroundTaskService" />
+326-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:26:9-99
+326-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:26:18-97
+327
+328        <receiver android:name="com.transistorsoft.locationmanager.scheduler.ScheduleAlarmReceiver" />
+328-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:27:9-102
+328-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:27:19-100
+329
+330        <service android:name="com.transistorsoft.locationmanager.scheduler.ScheduleService" />
+330-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:28:9-95
+330-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:28:18-93
+331        <service
+331-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:29:9-179
+332            android:name="com.transistorsoft.locationmanager.scheduler.ScheduleJobService"
+332-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:29:18-96
+333            android:exported="true"
+333-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:29:97-120
+334            android:permission="android.permission.BIND_JOB_SERVICE" />
+334-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:29:121-177
+335
+336        <receiver android:name="com.transistorsoft.locationmanager.BootReceiver" >
+336-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:30:9-35:20
+336-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:30:19-81
+337            <intent-filter>
+337-->[com.transistorsoft:tsbackgroundfetch:0.4.5] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/f926504d591de91ac0de48eede30c193/tsbackgroundfetch-0.4.5/AndroidManifest.xml:24:13-27:29
+338                <action android:name="android.intent.action.BOOT_COMPLETED" />
+338-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:35:17-79
+338-->/Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/android/app/src/main/AndroidManifest.xml:35:25-76
+339                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+339-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:42:17-84
+339-->[com.evernote:android-job:1.1.11] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/93e7846bcf2ce3f742bd149c3c344b49/jetified-android-job-1.1.11/AndroidManifest.xml:42:25-81
+340            </intent-filter>
+341        </receiver>
+342
+343        <provider
+343-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:36:9-38:20
+344            android:name="com.transistorsoft.locationmanager.util.LogFileProvider"
+344-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:36:19-89
+345            android:authorities="com.mobilereactnative.tslocationmanager.fileprovider"
+345-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:36:90-159
+346            android:exported="false"
+346-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:36:160-184
+347            android:grantUriPermissions="true" >
+347-->[com.transistorsoft:tslocationmanager:3.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ef57de50012ac013040cfa498f38ad6a/tslocationmanager-3.1.8/AndroidManifest.xml:36:185-219
+348            <meta-data
+348-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+349                android:name="android.support.FILE_PROVIDER_PATHS"
+349-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+350                android:resource="@xml/tslocationmanager_file_provider_path" />
+350-->[:react-native-image-picker] /Users/joseguilherme/Desktop/Projeto/flashentregas/backgroundtask/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+351        </provider>
+352
+353        <activity
+353-->[com.intentfilter:android-permissions:0.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ac39ed9294a34b48ce9fe920258b3ca9/jetified-android-permissions-0.1.8/AndroidManifest.xml:12:9-15:59
+354            android:name="com.intentfilter.androidpermissions.PermissionsActivity"
+354-->[com.intentfilter:android-permissions:0.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ac39ed9294a34b48ce9fe920258b3ca9/jetified-android-permissions-0.1.8/AndroidManifest.xml:13:13-83
+355            android:excludeFromRecents="true"
+355-->[com.intentfilter:android-permissions:0.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ac39ed9294a34b48ce9fe920258b3ca9/jetified-android-permissions-0.1.8/AndroidManifest.xml:14:13-46
+356            android:theme="@style/AppTheme.Transparent" />
+356-->[com.intentfilter:android-permissions:0.1.8] /Users/joseguilherme/.gradle/caches/transforms-2/files-2.1/ac39ed9294a34b48ce9fe920258b3ca9/jetified-android-permissions-0.1.8/AndroidManifest.xml:15:13-56
+357    </application>
+358
+359</manifest>

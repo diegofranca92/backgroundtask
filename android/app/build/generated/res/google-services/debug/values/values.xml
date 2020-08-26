@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">137086602324-t4f29ecqe2a824bgn0h86hh7s4rinics.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://flashentregas-504f7.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">137086602324</string>
+    <string name="google_api_key" translatable="false">AIzaSyD46SbVbwkCozfeg8JblMXIEpgck9shuks</string>
+    <string name="google_app_id" translatable="false">1:137086602324:android:06b1ee371df69d3fd1f1c1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD46SbVbwkCozfeg8JblMXIEpgck9shuks</string>
+    <string name="google_storage_bucket" translatable="false">flashentregas-504f7.appspot.com</string>
+    <string name="project_id" translatable="false">flashentregas-504f7</string>
+</resources>

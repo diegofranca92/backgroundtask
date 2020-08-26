@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "137086602324",
+    "firebase_url": "https://flashentregas-504f7.firebaseio.com",
+    "project_id": "flashentregas-504f7",
+    "storage_bucket": "flashentregas-504f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137086602324:android:06b1ee371df69d3fd1f1c1",
+        "android_client_info": {
+          "package_name": "com.mobilereactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137086602324-t4f29ecqe2a824bgn0h86hh7s4rinics.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD46SbVbwkCozfeg8JblMXIEpgck9shuks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137086602324-t4f29ecqe2a824bgn0h86hh7s4rinics.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
